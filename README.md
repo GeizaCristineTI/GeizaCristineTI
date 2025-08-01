@@ -4,7 +4,7 @@ Olá! Meu nome é Geiza Cristine e estou trilhando meu caminho na área de Tecno
 
 🎓 Atualmente, estou cursando:
 - **3º período** do curso tecnólogo em **Gestão da Tecnologia da Informação**
-- **1º período** de **Sistemas de Computação**
+
 
 🚀 Além da graduação, estou participando do **Programa Desenvolve**, uma iniciativa do Grupo O Boticário em parceria com a Koru. Através dele, estou realizando um curso intensivo de **Desenvolvimento de Software** com carga horária de **160 horas**, onde venho aprendendo muito sobre programação, lógica e desenvolvimento web.
 
