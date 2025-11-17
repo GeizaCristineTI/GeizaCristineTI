@@ -1,13 +1,59 @@
-👋 Olá! Eu sou a Geiza — jovem talento em desenvolvimento na área de TI
+# 👋 Olá, eu sou a Geiza!
 
-Tenho 21 anos e estou no 3º período de Gestão da Tecnologia da Informação. Paralelamente, evoluo na área técnica como aluna do Programadores do Amanhã e estudante de programação na Alura, onde coloco a mão na massa todos os dias.
+🎯 **Jovem em início de carreira em Tecnologia da Informação**, determinada a conquistar minha primeira oportunidade como **estagiária, jovem aprendiz ou profissional júnior em TI**.
 
-Desenvolvo projetos com HTML, CSS, JavaScript e PHP, além de ter base em Banco de Dados e Gestão de Serviços em TI. Meu foco atual é construir experiência prática e entregar soluções simples, funcionais e bem estruturadas enquanto avanço no meu aprendizado.
+---
 
-💡 O que me move?
-A paixão por tecnologia, a disciplina para aprender rápido e a visão de seguir carreira na Gestão de TI — unindo conhecimento técnico, organização e liderança para gerar impacto real nas empresas.
+## 👩‍💻 Sobre mim
 
-🔍 O que busco agora?
-Minha primeira oportunidade profissional em TI — seja como estagiária ou jovem aprendiz — para aplicar o que venho estudando, aprender com profissionais experientes e contribuir com entusiasmo e responsabilidade.
+* 📚 Tenho **21 anos** e atualmente curso **Gestão da Tecnologia da Informação (3º período)**.
+* 🚀 Faço parte do programa **Programadores do Amanhã**, onde estudo:
 
-🚀 Aqui no GitHub você encontra meus projetos de aprendizado, que refletem minha evolução e minha dedicação diária à área.
+  * Desenvolvimento de software
+  * **Soft Skills**
+  * **Inglês**
+* 💡 Estudo programação também pela **Alura**.
+* 🧩 Conhecimentos iniciais em:
+
+  * **HTML, CSS, JavaScript e PHP**
+  * **Banco de Dados** (conceitos e fundamentos)
+  * **Gestão de Serviços de TI (ITSM)**
+* ❤️ Sou apaixonada pela área de desenvolvimento, mas minha meta final é atuar com **Gestão de TI**.
+
+---
+
+## 💼 Objetivo Profissional
+
+Estou construindo minha trajetória na tecnologia com muita dedicação e vontade de aprender. Busco minha **primeira oportunidade no mercado de TI**, seja como:
+
+* Estagiária
+* Jovem Aprendiz
+* Assistente/Analista Júnior
+
+Quero aplicar meus conhecimentos, crescer profissionalmente e fazer parte de **grandes empresas do setor**, contribuindo com inovação, foco e aprendizado contínuo.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+🔧 **Front-end:** HTML • CSS • JavaScript
+
+🖥️ **Back-end:** PHP (básico)
+
+🗄️ **Banco de Dados:** MySQL (básico)
+
+📘 **Outros:** Git • ITSM • Lógica de Programação
+
+---
+
+## 📂 Projetos
+
+Sinta-se à vontade para explorar meus projetos de aprendizagem aqui no GitHub! Estou sempre estudando e desenvolvendo novos conteúdos para evoluir na prática.
+
+---
+
+## 🌟 Mensagem Final
+
+Sou uma jovem iniciando minha caminhada na TI, com **muita vontade de aprender, crescer e fazer a diferença**. Estou aberta a oportunidades e a novos desafios. Obrigada por visitar meu perfil! 🙌
+
+📩 **Contato:** *Adicione seu e-mail aqui*
