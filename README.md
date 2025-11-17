@@ -7,6 +7,7 @@
 ## 👩‍💻 Sobre mim
 
 * 📚 Tenho **21 anos** e atualmente curso **Gestão da Tecnologia da Informação (3º período)**.
+* 🏡 Moro em Bangu-RJ
 * 🚀 Faço parte do programa **Programadores do Amanhã**, onde estudo:
 
   * Desenvolvimento de software
@@ -51,9 +52,7 @@ Quero aplicar meus conhecimentos, crescer profissionalmente e fazer parte de **g
 Sinta-se à vontade para explorar meus projetos de aprendizagem aqui no GitHub! Estou sempre estudando e desenvolvendo novos conteúdos para evoluir na prática.
 
 ---
+ 
+## 🌟 Sou uma jovem iniciando minha caminhada na TI, com **muita vontade de aprender, crescer e fazer a diferença**. Estou aberta a oportunidades e a novos desafios. Obrigada por visitar meu perfil! 🙌
 
-## 🌟 Mensagem Final
-
-Sou uma jovem iniciando minha caminhada na TI, com **muita vontade de aprender, crescer e fazer a diferença**. Estou aberta a oportunidades e a novos desafios. Obrigada por visitar meu perfil! 🙌
-
-📩 **Contato:** *Adicione seu e-mail aqui*
+📩 **Contato:** *geizacristineti@gmail.com*
