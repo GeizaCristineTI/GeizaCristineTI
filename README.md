@@ -1,15 +1,13 @@
-# 👩‍💻 Sobre mim
+👋 Olá! Eu sou a Geiza — jovem talento em desenvolvimento na área de TI
 
-Olá! Meu nome é Geiza Cristine e estou trilhando meu caminho na área de Tecnologia da Informação com muito entusiasmo e dedicação.
+Tenho 21 anos e estou no 3º período de Gestão da Tecnologia da Informação. Paralelamente, evoluo na área técnica como aluna do Programadores do Amanhã e estudante de programação na Alura, onde coloco a mão na massa todos os dias.
 
-🎓 Atualmente, estou cursando:
-- **3º período** do curso tecnólogo em **Gestão da Tecnologia da Informação**
+Desenvolvo projetos com HTML, CSS, JavaScript e PHP, além de ter base em Banco de Dados e Gestão de Serviços em TI. Meu foco atual é construir experiência prática e entregar soluções simples, funcionais e bem estruturadas enquanto avanço no meu aprendizado.
 
+💡 O que me move?
+A paixão por tecnologia, a disciplina para aprender rápido e a visão de seguir carreira na Gestão de TI — unindo conhecimento técnico, organização e liderança para gerar impacto real nas empresas.
 
-🚀 Além da graduação, estou participando do **Programa Desenvolve**, uma iniciativa do Grupo O Boticário em parceria com a Koru. Através dele, estou realizando um curso intensivo de **Desenvolvimento de Software** com carga horária de **160 horas**, onde venho aprendendo muito sobre programação, lógica e desenvolvimento web.
+🔍 O que busco agora?
+Minha primeira oportunidade profissional em TI — seja como estagiária ou jovem aprendiz — para aplicar o que venho estudando, aprender com profissionais experientes e contribuir com entusiasmo e responsabilidade.
 
-💡 Um dos projetos que já desenvolvi com muito carinho foi o **"Meu Diário Pessoal"**, um sistema que registra a minha jornada e evolução na área de TI, que teve início no ano de **2025**. Esse projeto representa não só meu aprendizado técnico, mas também o meu crescimento pessoal e profissional nesse novo universo da tecnologia.
-
-🔗 Fique à vontade para explorar meus repositórios e acompanhar minha evolução!
-
----
+🚀 Aqui no GitHub você encontra meus projetos de aprendizado, que refletem minha evolução e minha dedicação diária à área.
