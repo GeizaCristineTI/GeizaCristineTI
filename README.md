@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Geiza! 🌷
 
 🎯 **Jovem em início de carreira em Tecnologia da Informação**, determinada a conquistar minha primeira oportunidade como **estagiária, jovem aprendiz ou profissional júnior em TI**.
-📩 **ContatoS:**
+📩 **Contatos:**
 *geizacristineti@gmail.com*
 ☎  *(21) 97024-2412*
 
