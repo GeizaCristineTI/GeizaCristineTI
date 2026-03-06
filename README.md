@@ -1,6 +1,9 @@
-# 👋 Olá, eu sou a Geiza!
+# 👋 Olá, eu sou a Geiza! 🌷
 
 🎯 **Jovem em início de carreira em Tecnologia da Informação**, determinada a conquistar minha primeira oportunidade como **estagiária, jovem aprendiz ou profissional júnior em TI**.
+📩 **ContatoS:**
+*geizacristineti@gmail.com*
+☎  *(21) 97024-2412*
 
 ---
 
@@ -55,4 +58,4 @@ Sinta-se à vontade para explorar meus projetos de aprendizagem aqui no GitHub! 
  
 ## 🌟 Sou uma jovem iniciando minha caminhada na TI, com **muita vontade de aprender, crescer e fazer a diferença**. Estou aberta a oportunidades e a novos desafios. Obrigada por visitar meu perfil! 🙌
 
-📩 **Contato:** *geizacristineti@gmail.com*
+
