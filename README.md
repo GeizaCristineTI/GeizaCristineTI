@@ -6,8 +6,8 @@
 
 ## 👩‍💻 Sobre mim
 
-* 📚 Tenho **21 anos** e atualmente curso **Gestão da Tecnologia da Informação (3º período)**.
-* 🏡 Moro em Bangu-RJ
+* 📚 Tenho **22 anos** e atualmente curso **Gestão da Tecnologia da Informação (3º período)**.
+* 🏡 Moro no Rio de Janeiro-RJ
 * 🚀 Faço parte do programa **Programadores do Amanhã**, onde estudo:
 
   * Desenvolvimento de software
@@ -18,7 +18,7 @@
 
   * **HTML, CSS, JavaScript e PHP**
   * **Banco de Dados** (conceitos e fundamentos)
-  * **Gestão de Serviços de TI (ITSM)**
+  * **Gerenciamento de Projetos**
 * ❤️ Sou apaixonada pela área de desenvolvimento, mas minha meta final é atuar com **Gestão de TI**.
 
 ---
@@ -29,9 +29,9 @@ Estou construindo minha trajetória na tecnologia com muita dedicação e vontad
 
 * Estagiária
 * Jovem Aprendiz
-* Assistente/Analista Júnior
+* Assistente/Analista de TI Júnior
 
-Quero aplicar meus conhecimentos, crescer profissionalmente e fazer parte de **grandes empresas do setor**, contribuindo com inovação, foco e aprendizado contínuo.
+Quero aplicar meus conhecimentos, crescer profissionalmente e fazer parte de **grandes empresas do setor**, contribuindo com inovação, automatização de processos e aprendizado contínuo.
 
 ---
 
@@ -43,7 +43,7 @@ Quero aplicar meus conhecimentos, crescer profissionalmente e fazer parte de **g
 
 🗄️ **Banco de Dados:** MySQL (básico)
 
-📘 **Outros:** Git • ITSM • Lógica de Programação
+📘 **Outros:** Git • GITHUB • Lógica de Programação
 
 ---
 
