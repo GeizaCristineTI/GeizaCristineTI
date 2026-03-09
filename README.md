@@ -5,7 +5,7 @@
 📩 **Contatos:**
 *geizacristineti@gmail.com*
 ☎  *(21) 97024-2412*
-*|LinkedIn: https://www.flaticon.com/br/icone-gratis/linkedin_1384014|*
+*|LinkedIn: https://www.linkedin.com/in/geizacristineti|*
 
 ---
 
