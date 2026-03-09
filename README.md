@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou a Geiza! 🌷
 
 🎯 **Jovem em início de carreira em Tecnologia da Informação**, determinada a conquistar minha primeira oportunidade como **estagiária, jovem aprendiz ou profissional júnior em TI**.
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/d27aea39-29b3-4bf4-9747-6af8461ca399" />
+https://www.linkedin.com/in/geizacristineti
 📩 **Contatos:**
 *geizacristineti@gmail.com*
 ☎  *(21) 97024-2412*
